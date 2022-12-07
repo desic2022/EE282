@@ -16,18 +16,24 @@
 ## Plots of the following for all sequences less than or equal to 100kb
 
 ![less than 100kb GC plot](C:\Users\desichase79\Desktop\Speeches and Interviews SP1\dmel6_LT_GC_plotr.png)
+![less than 100kb GC plot](https://github.com/desic2022/EE282/blob/main/output/figures/dmel6_LT_GC_plotr.png)
 
 ![less than 100kb length plot](C:\Users\desichase79\Desktop\Speeches and Interviews SP1\dmel6_LT_length_plotr.png)
+![less than 100kb length plot](https://github.com/desic2022/EE282/blob/main/output/figures/dmel6_LT_length_plotr.png)
 
 ![Cumulative plot](C:\Users\desichase79\Desktop\Speeches and Interviews SP1\dmelr6.lte.png)
+![Cumulative plot](https://github.com/desic2022/EE282/blob/main/output/figures/dmelr6.lte.png)
 
 ## Plots of the following for all sequences greater than 100kb
 
 ![greater than 100kb GC plot](C:\Users\desichase79\Desktop\Speeches and Interviews SP1\dmel6_GT_GC_plotr.png)
+![greater than 100kb GC plot](https://github.com/desic2022/EE282/blob/main/output/figures/dmel6_GT_GC_plotr.png)
 
 ![greater than 100kb length plot](C:\Users\desichase79\Desktop\Speeches and Interviews SP1\dmel6_GT_length_plotr.png)
+![greater than 100kb length plot](https://github.com/desic2022/EE282/blob/main/output/figures/dmel6_GT_length_plotr.png)
 
 ![Cumulative plot](C:\Users\desichase79\Desktop\Speeches and Interviews SP1\dmelr6.gt.png)
+![Cumulative plot](https://github.com/desic2022/EE282/blob/main/output/figures/dmelr6.gt.png)
 
 # Genome Assembly
 
